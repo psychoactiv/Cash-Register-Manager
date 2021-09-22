@@ -1,0 +1,43 @@
+table,
+th,
+td {
+  border: 1px solid black;
+  height: 7px;
+}
+table {
+  table-layout: fixed;
+  width: 80%;
+  border: 5px solid white;
+  border-collapse: collapse;
+}
+th {
+  width: 100%;
+  border: 5px solid white;
+}
+td {
+  width: 50%;
+  border: 5px solid white;
+  word-wrap: break-word;
+  max-width: 1px;
+}
+.total {
+  text-align: center;
+}
+.tbl {
+  margin: auto;
+}
+.total {
+  border: 5px solid white;
+  margin: 0px 100px;
+  border-radius: 30px;
+  padding-bottom: 50px;
+}
+
+body {
+  background-color: #a5b2aa;
+  color: #63605b;
+}
+
+input {
+  border: 3px solid #f8e6e3;
+}
