@@ -27,21 +27,15 @@ td {
   word-wrap: break-word;
   max-width: 1px;
 }
-.total {
-  text-align: center;
-}
+
 .tbl {
   margin: auto;
-}
-.total {
-  margin: 0px 100px;
-  border-radius: 30px;
-  padding-bottom: 50px;
 }
 
 body {
   background-color: #a5b2aa;
   color: #63605b;
+  text-align: center;
 }
 
 input {
